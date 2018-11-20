@@ -1,0 +1,7 @@
+*.class
+*.tmp
+*.bak
+*.war
+*.db
+*.prefs
+*.gz
